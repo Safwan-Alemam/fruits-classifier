@@ -76,11 +76,12 @@ Confidence: 99.3%
 Here are some example screenshots showing how the model was trained and used for prediction:
 
 ### 🔍 Teachable Machine – Mango Prediction
-<img src="screenshoots/teachable_machine_prediction_mango.png" width="600"/>
+
+<img src="screenshoots/Mango.png" width="600"/>
 
 ### 🔍 Teachable Machine – Strawberry Prediction
-<img src="screenshoots/teachable_machine_prediction_strawberry.png" width="600"/>
 
+<img src="screenshoots/Strawberry.png" width="600"/>
 
 ---
 

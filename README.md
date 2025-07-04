@@ -72,9 +72,26 @@ Confidence: 99.3%
 
 ---
 
-## 📸 Screenshots
+📸 Screenshots
+Here are some example screenshots showing how the model was trained and used for prediction:
 
-Add screenshots to the `screenshoots/` folder to demonstrate output or results visually.
+🔍 Teachable Machine Training
+Strawberry and Mango Classes (230+ Images each)
+<img src="screenshoots/teachable_machine_mango.png" width="600"/>
+
+Prediction Example: Mango Classified with 100% Confidence
+<img src="screenshoots/teachable_machine_prediction_mango.png" width="400"/>
+
+Prediction Example: Strawberry Classified with 100% Confidence
+<img src="screenshoots/teachable_machine_prediction_strawberry.png" width="400"/>
+
+🖼️ Sample Fruits Used
+Mango
+<img src="screenshoots/Mango.jpg.png" width="200"/>
+
+Strawberry
+<img src="screenshoots/Strawberry.jpg.png" width="200"/>
+
 
 ---
 

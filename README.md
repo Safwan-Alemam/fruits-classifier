@@ -85,14 +85,6 @@ Here are some example screenshots showing how the model was trained and used for
 
 ---
 
-## 🛠 Possible Improvements
-
-* Build a simple web UI using **Flask** or **Streamlit**
-* Expand to include more fruit types
-* Add support for real-time webcam detection
-
----
-
 ## 🤝 Credits
 
 Developed by **Safwan-Alemam**
